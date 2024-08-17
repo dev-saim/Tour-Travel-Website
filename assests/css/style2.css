@@ -1,0 +1,28 @@
+.container-fluid
+{
+   margin: 20px;
+   padding:20px; 
+   text-align: center;
+   justify-content: center;
+}
+.container-fluid h2
+{
+    margin-bottom: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    word-spacing: 5px;
+}
+.container-fluid .table-head
+{
+    background-color: black;
+    color:white;
+}
+.btn-danger
+{
+    border: none;
+    outline: none;
+    font-size: 14px;
+    padding:6px 17px;
+    border-radius: 4px;
+    font-weight: bold;
+}
